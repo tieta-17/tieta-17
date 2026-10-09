@@ -11,7 +11,9 @@ I'm always looking to expand my technical knowledge, tackle new engineering chal
 ## Projects
 I'm currently working on [ANIMA](https://github.com/Rkycodes/ANIMA). 
 
-I've developed an FPGA based System on a Chip on a Gowin FPGA (Tang Nano 9K) equipped with memory mapped GPIO and UART, powered by a CPU running on my own custom RISC-V Inspired ISA.
+I've developed an [FPGA based System on a Chip](https://github.com/tieta-17/tang-nano-9k-SOC) on a Gowin FPGA (Tang Nano 9K) equipped with memory mapped GPIO and UART, powered by a CPU running on my own custom RISC-V Inspired ISA.
+
+To expand on the FPGA SOC, I am currently learning AXI and planning to integrate it into the current SOC. I also intend to move the SoC onto a Basys 3 Artix FPGA Development Board, utilizing the Vivado Toolkit as well.
 
 ## Profile Links:
 GitHub: [https://github.com/tieta-17](https://github.com/tieta-17)  
