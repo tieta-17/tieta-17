@@ -7,10 +7,9 @@ I'm currently working on [ANIMA](https://github.com/Rkycodes/ANIMA).
 I've developed an FPGA based System on a Chip on a Gowin FPGA (Tang Nano 9K) equipped with memory mapped GPIO and UART, powered by a CPU developed on my own custom RISC-V Inspired ISA.
 
 ## Profile Links:
-GitHub: [https://github.com/tieta-17](https://github.com/tieta-17)
-LinkedIn: [https://www.linkedin.com/in/an-tiet/](https://www.linkedin.com/in/an-tiet/)
+GitHub: [https://github.com/tieta-17](https://github.com/tieta-17)  
+LinkedIn: [https://www.linkedin.com/in/an-tiet/](https://www.linkedin.com/in/an-tiet/). 
 Email: [tiet.a0817@gmail.com](mailto:tiet.a0817@gmail.com)
-
 
 <!--
 **tieta-17/tieta-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
